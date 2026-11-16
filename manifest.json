@@ -1,0 +1,10 @@
+{
+  "name": "Voice Reminder",
+  "short_name": "Reminder",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101116",
+  "theme_color": "#101116",
+  "description": "Your personal voice reminder assistant",
+  "icons": []
+}
